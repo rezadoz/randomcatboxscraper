@@ -1,3 +1,4 @@
+```
 usage: randomcatboxscraper.py [-h] [-v]
                               [-f FILE] [-l]
                               [-c] [-d]
@@ -15,3 +16,4 @@ options:
   -c, --count      list the amount checked per
                    second
   -d, --download   download as it finds it
+```
