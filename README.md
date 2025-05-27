@@ -1,3 +1,8 @@
+# USE AT YOUR OWN RISK
+
+**WARNING**: If you run this script you will likely download some NSFW/NSFL files. Some of them might be vile, some even illegal.
+
+
 ```
 usage: randomcatboxscraper.py [-h] [-v]
                               [-f FILE] [-l]
