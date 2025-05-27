@@ -15,7 +15,7 @@ init(autoreset=True)
 #-----Settings-----
 #------------------
 
-workers = 20  # number of concurrent searches
+workers = 1  # number of concurrent searches
 FIREFOX_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"
 HEADERS = {'User-Agent': FIREFOX_USER_AGENT}
 log_lock = threading.Lock()
